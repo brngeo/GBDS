@@ -4,7 +4,8 @@ This files is for documentation only. \
 **Organization:** GBDS 2026
 
 **Teams:** \
-**Dealer/Distributor:** Chiong, Rie
+**Dealer/Distributor:** \
+Chiong, Rie
 
 **TSS:** \
 	Baguio, Neilvin
